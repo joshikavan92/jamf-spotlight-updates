@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Jamf Spotlight</title>
+        <item>
+            <title>1.4.1</title>
+            <pubDate>Tue, 14 Jul 2026 19:15:08 +0530</pubDate>
+            <link>https://github.com/joshikavan92/jamf-spotlight-updates</link>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/joshikavan92/jamf-spotlight-updates/releases/download/v1.4.1/Jamf-Spotlight-1.4.1.dmg" length="2415026" type="application/octet-stream" sparkle:edSignature="Ox4hJD/nWzWUmbmTKTNGqDUSPlZrBwOoRa/CdxDTZ2pxqIwjY5BYnDtG7nNJ/sc82sTK1EEPSV5SKjKxiCSHBA=="/>
+        </item>
+    </channel>
+</rss>
