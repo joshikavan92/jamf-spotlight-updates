@@ -3,13 +3,13 @@
     <channel>
         <title>Jamf Spotlight</title>
         <item>
-            <title>1.4.2</title>
-            <pubDate>Tue, 14 Jul 2026 22:47:23 +0530</pubDate>
+            <title>1.4.3</title>
+            <pubDate>Tue, 14 Jul 2026 23:00:25 +0530</pubDate>
             <link>https://github.com/joshikavan92/jamf-spotlight-updates</link>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/joshikavan92/jamf-spotlight-updates/releases/download/v1.4.2/Jamf-Spotlight-1.4.2.dmg" length="2414759" type="application/octet-stream" sparkle:edSignature="638p5dnbeTmLg30Ywd1p7cgWV8/q0fk2LMPv8zyBeX7elikyxclWaj0DKPlO/3ltzNBsQ4BRMMVyZNF43wZxDw=="/>
+            <enclosure url="https://github.com/joshikavan92/jamf-spotlight-updates/releases/download/v1.4.3/Jamf-Spotlight-1.4.3.dmg" length="2415762" type="application/octet-stream" sparkle:edSignature="bcdGvFLv4RIVvpDWIdVMyH49M2eTRB1HA/Gi2iE/eyLMSOof1vtEXybN+1moMaWWu6+Cs069ouQSIZKtaM5GDg=="/>
         </item>
     </channel>
 </rss>
